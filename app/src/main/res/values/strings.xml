@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trollface Maker</string>
+    <string name="button_take_picture">Take a picture</string>
+    <string name="button_choose_picture">Choose a picture</string>
+    <string name="text_select_take_choose">Take a photo or choose a photo?</string>
+</resources>
