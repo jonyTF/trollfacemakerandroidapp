@@ -3,4 +3,7 @@
     <string name="button_take_picture">Take a picture</string>
     <string name="button_choose_picture">Choose a picture</string>
     <string name="text_select_take_choose">Take a photo or choose a photo?</string>
+    <string name="permission_camera_rationale">Use of the camera is needed to run this app.</string>
+    <string name="no_camera_permission">Please allow me to use your camera. Thank you. :)</string>
+    <string name="ok">Fine.</string>
 </resources>
